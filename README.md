@@ -16,7 +16,8 @@ QR Code Project
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/screenshot-desktop.png)
+![](./images/sscreenshot-mobile.png)
 
 ### Built with
 
